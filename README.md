@@ -1,5 +1,6 @@
 # First-web-development-project
 
-
-<p>python -m venv venv</p>
-pip install flask pymongo certifi dnspython
+<ul>
+<li><p>python -m venv venv</p></li>
+<li>pip install flask pymongo certifi dnspython</li>
+</ul>
